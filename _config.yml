@@ -30,7 +30,7 @@ youtube_id: UCmJHdPPDq2EnblWmkxdzhmw
 
 # Build settings
 markdown: kramdown
-theme: miniblog
+remote_theme: mini-blog
 
 default_post_image: /assets/images/mbimg.png
 #highlighter: pygments
